@@ -49,4 +49,3 @@ The mushroom dataset contains some trickier aspects of data cleaning and prepara
 
 [Starter Code](code/starter-code/starter-code-5_2.ipynb)
 
-> [Solution Code](code/solution-code/solution-code-5_2.ipynb)
